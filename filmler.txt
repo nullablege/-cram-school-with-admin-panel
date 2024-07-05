@@ -1,0 +1,2 @@
+baslik |aciklama|resim |url |0|0|
+film2|film2aciklama|film2resim.jpeg|film2url|0|0|0

@@ -1,0 +1,13 @@
+functıons ıcerısındekı removeduplıcates fonksıyonunu duzenle ekrana mesaj verıyor ama sılmıyor fonksıyon.
+
+mezunlar kısmındakı txt dosyalarından mezunlar.php ye bastırımını sagla
+
+fotogaleri otomatık olarak ekrana bastıryor zaten sadece admın panelıne eklemek ıcın form ekle
+
+admın panelıne bır logout tusu ekle
+
+duyurular sayfası ekle ( duyuruların yapıldıgı tarıhı otomatık olarak gırsın.)
+
+ıletısm sayfasını dınamıklestır.
+
+mezunlarımız kısmında ısım ve soyısmın sadece ılk 2 harfının goruntulenecegı sekılde duzenleyebılırız.

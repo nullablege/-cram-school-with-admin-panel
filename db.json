@@ -1,0 +1,19 @@
+{
+    "kullanicilar": [],
+    "filmler": [],
+    "kategoriler": [
+        {
+            "id": 1,"name":"macera"
+        },
+        {
+            "id": 2,"name":"dram"
+        },
+        {
+            "id": 3,"name":"komedi"
+        },
+        {
+            "id": 4,"name":"korku"
+        }
+    ]
+
+}
