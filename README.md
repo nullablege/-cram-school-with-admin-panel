@@ -1,6 +1,5 @@
 # 🏛️ X Eğitim Kurumları - Web Sitesi ve Admin Paneli (PHP ile Dosya Tabanlı Veri Yönetimi)
 
-![X Eğitim Kurumları Logosu](Atilgan- PHP/icon.png) <!-- icon.png dosyasının projenizin kök dizininde olduğunu varsayıyorum -->
 
 Bu proje, "X Eğitim Kurumları" adlı bir dershane için geliştirilmiş, **tamamen PHP ile kodlanmış dinamik bir web sitesi ve bu siteyi yönetmek için kapsamlı bir admin paneli içerir.** Projenin en dikkat çekici ve özgün yönü, veritabanı işlemlerini geleneksel bir MySQL veya benzeri bir veritabanı sistemi kullanmak yerine, **doğrudan metin dosyaları (`.txt`) üzerinden gerçekleştirmesidir.** Bu yaklaşım, PHP'nin dosya okuma, yazma ve manipülasyon yeteneklerini sergilemek ve temel veri yönetimi prensiplerini anlamak için mükemmel bir pratik sunar.
 
